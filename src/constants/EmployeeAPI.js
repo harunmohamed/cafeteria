@@ -1,0 +1,20 @@
+export const employeeData = {
+    "Harun": 5,
+    "Serge": 1,
+    "Can": 10,
+    "Hanifi": 9,
+    "Mete": 4,
+    "Abdul": 6,
+    "Moise": 6,
+    "Evey": 4,
+    "Hemedi": 6,
+    "Kevin": 2,
+    "Saba": 6,
+    "Firat": 4,
+    "Mert": 4,
+    "Asma": 8,
+    "Olusegun": 1,
+    "Sedat": 10,
+    "Rami": 0,
+    "Tuna": 8
+}

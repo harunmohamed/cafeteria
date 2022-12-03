@@ -1,6 +1,8 @@
+import Layout from "./pages/Layout";
+
 function App() {
   return (
-    <div>welcome to the party</div>
+    <Layout />
   );
 }
 
